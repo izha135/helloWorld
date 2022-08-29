@@ -1,5 +1,5 @@
 # helloWorld
-# Android Prework - *Name of App Here*
+# Android Prework - helloWorld
 
 Submitted by: Isha Chauhan
 
